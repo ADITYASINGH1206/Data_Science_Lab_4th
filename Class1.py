@@ -50,6 +50,15 @@ print(list1)
 list1.append("Data")
 print(list1)
 print(len(list1))
+print(list1.remove("Data"))
+print(list1)
+print(list1.pop())
+print(list1)
+print(list1.sort())
+print(list1)
+print(list1.reverse())
+print(list1)
+print(list1[0])
 
 # List has varous methods like append , pop , sort ,reverse
 
@@ -65,6 +74,4 @@ print(type(tp1))
 set1 = {"Data","Process","Deploy"}
 print(set1)
 
-# TEST GIT RESET 
 
-print("Nothing")
